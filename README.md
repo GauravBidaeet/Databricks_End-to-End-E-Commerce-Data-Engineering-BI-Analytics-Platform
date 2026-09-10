@@ -11,37 +11,6 @@ dashboards.
 🚀 Project Overview
 ![Project Architecture](project_architecture.png)
 
-AWS / Raw E-Commerce Data
-            │
-            ▼
-     Unity Catalog Volume
-            │
-            ▼
-      ┌───────────────┐
-      │ Bronze Layer  │
-      └───────┬───────┘
-              │
-        Data Cleaning
-        & Transformation
-              │
-              ▼
-      ┌───────────────┐
-      │ Silver Layer  │
-      └───────┬───────┘
-              │
-        Data Modeling
-              │
-              ▼
-      ┌───────────────┐
-      │  Gold Layer   │
-      └───────┬───────┘
-              │
-              ▼
-       SQL Analytics
-              │
-              ▼
-       BI Dashboard
-
 ---------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack
@@ -57,32 +26,6 @@ Medallion Architecture
 Dimensional Data Modeling
 BI Dashboard / Analytics
 Git / GitHub
-
----------------------------------------------------------------------------------------------------------------------------
-
-📁 Repository Structure
-
-End-to-End-E-Commerce-Data-Engineering-BI-Analytics-Platform/
-│
-├── README.md
-│
-├── project_architecture.png
-│
-├── raw_data/
-│   └── <raw e-commerce files>
-│
-├── 1_medallion_processing_dim/
-│   ├── 1_dim_bronze
-│   ├── 1_dim_silver
-│   └── 3_dim_gold
-│
-├── 3_medallion_processing_fact/
-│   ├── 1_fact_bronze
-│   ├── 2_fact_silver
-│   └── 3_fact_gold
-│
-└── bi_dashboard/
-    └── <dashboard screenshots>
 
 ---------------------------------------------------------------------------------------------------------------------------
 
