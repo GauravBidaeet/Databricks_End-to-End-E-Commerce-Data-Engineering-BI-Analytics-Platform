@@ -1,0 +1,11 @@
+category_code,category_name,_ingested_at,_source_file
+ce,Electronics,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+app,Apparel,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+hnk,Home & Kitchen,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+bpc,Beauty & Personal Care,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+bks,Books,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+grcy,Grocery,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+toy,Toys & Games,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+spt,Sports & Outdoors,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+app,Apparel,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+grcy,Grocery,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
