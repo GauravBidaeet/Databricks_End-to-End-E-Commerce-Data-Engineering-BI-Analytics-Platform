@@ -1,0 +1,9 @@
+category_code,category_name,_ingested_at,_source_file
+BPC,Beauty & Personal Care,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+SPT,Sports & Outdoors,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+APP,Apparel,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+GRCY,Grocery,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+HNK,Home & Kitchen,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+BKS,Books,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+CE,Electronics,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
+TOY,Toys & Games,2026-09-09T23:34:10.058Z,dbfs:/Volumes/ecommerce/source_data/raw/category/category.csv
